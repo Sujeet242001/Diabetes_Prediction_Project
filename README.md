@@ -3,7 +3,7 @@
 The goal of this project is to develop a web application that predicts the likelihood of diabetes in individuals based on various health parameters. It aims to provide an accessible platform for users to assess their health risk and seek medical advice if necessary.
 
 ## Dataset Used:
-
+<a href="https://github.com/Sujeet242001/Diabetes_Prediction_Project/blob/main/diabetes.csv">DataSet</a>
 
 ## Key Questions:
 What are the most significant factors influencing diabetes risk?
